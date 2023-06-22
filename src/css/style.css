@@ -1,0 +1,17 @@
+html{
+	background-color:rgb(24, 48, 64); 
+	color:white;
+	text-align:center; 
+}
+button{
+	background-color:rgb(24, 48, 64); 
+	color:white;
+	border: 2px solid white;;
+  	border-radius: 50px 20px;
+}
+
+
+img{
+		border: 2px solid white;
+		border-radius: 50px;
+}
